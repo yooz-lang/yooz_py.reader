@@ -1,4 +1,4 @@
-# Yooz Parser
+# Yooz reader
 
 
 ### معرفی
