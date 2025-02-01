@@ -7,10 +7,9 @@ from typing import Optional
 
 class YoozParser:
     """
-    A parser for the Yooz, used for processing conversational patterns,
-    replacements, rules, and more.
-    
-    to see more-detailed docstring for YoozParser: "YoozParser-docstring.txt"
+    A parser for the Yooz, is used to parse and analyze yooz-codes, and
+    organize them as conversational patterns, replacements, rules, and more...
+    and to generate appropriate responses for user messages, by processing them.
     """
     
     def __init__(self):
